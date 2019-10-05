@@ -1,0 +1,121 @@
+/* .container{
+width: 700px;
+
+} */
+.all-pro{
+    background: url(./s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    
+
+}
+h3.cart-text{
+
+    text-transform: uppercase;
+}
+
+form.cart-items {
+    opacity: .9;
+}
+
+h3{
+    text-align: center;
+}
+h6.my-text{
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.shopping{
+    border: 1px solid #333;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 16px;
+    align-items: center;
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+tr{
+    color: black;
+}
+.shopping-cart{
+    padding: 3% 0;
+}
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+
+.details{
+    height: 100vh;
+  background: url(./m.jpg) no-repeat;
+  background-size: cover;
+  
+    
+}
+.price-details h6{
+    padding: 3% 2%;
+}
+
+
+
+
+/* regstration */
+
+
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    display: block;
+    padding: 1% 0%;
+    background: transparent;
+}
+
+form.my {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+
+button {
+    
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    background: tranarent;
+}
+
+form h1 {
+    text-align: center;
+}
+
+input::placeholder {
+    color: red;
+}
+
+
+/* log in */
+
+
+
+
